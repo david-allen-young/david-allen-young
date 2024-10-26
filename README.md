@@ -32,7 +32,8 @@ Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years)
 NBCUniversal | Universal City, California | 01/2011 - 03/2018 (7 Years) 
 
 <blockquote>
-<b>Scope:</b> Installed, configured, and supported extensive audio and video post-production facilities. 
+<b>Scope:</b> Installed, configured, and supported extensive audio and video post-production facilities. </br>
+<b>Accomplishments:</b> Executed a large consolidation of audio post-production facilities from Wilshire Studios to 10 Universal City Plaza on time and in compliance with an aggressive deadline.
 </blockquote>
 
 
