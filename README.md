@@ -10,8 +10,8 @@ I am a Software Development Engineer at Advanced Soundware with over 6 years of 
 
 SKILLS 
 
-Programming Languages: C++ 17 | Python 3.1 | Ruby 3.5  </br>
-Databases: MySQL | SQLite  </br>
+Programming Languages: C++ 17 | T-SQL | Python 3.1 | Ruby 3.5  </br>
+Databases: Microsoft SQL Server 2022 | MySQL | SQLite  </br>
 Frameworks: JUCE | music21 | Ruby on Rails | RubyGems | TensorFlow  </br>
 Technologies: Git | SQL | DSP | XML | JSON | FTP | HTML | CSS | CNN | GAN  </br>
 Web Tools: WordPress | WooCommerce | Stripe | Google Cloud Platform  </br>
